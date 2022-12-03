@@ -474,24 +474,3 @@ a:focus {
 }
 
 /* end info section */
-
-
-/* footer section*/
-
-.footer_section {
-  background-color: #efeded;
-  padding: 20px 0;
-  font-family: "Roboto", sans-serif;
-}
-
-.footer_section p {
-  color: #191818;
-  margin: 0;
-  text-align: center;
-}
-
-.footer_section a {
-  color: #191818;
-}
-
-/* end footer section*/
